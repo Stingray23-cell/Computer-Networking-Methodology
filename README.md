@@ -1,0 +1,4 @@
+For most of the projects that we will be doing you will need to have CISCO packet tracer, which you can download from CISCO'S official site. Explanations that are given are that of my own understanding and the information is provided to facilitate knowledge sharing and learning.
+I will provide the CLI configurations for each project whilst explaining the concept behind the "how" and the "why". This makes it easier to understand and to be able to fix/troubleshoot problems that we may encounter as time goes. 
+Last but not least, I will also provide resources, materials and links to videos and sites that are worth your attention and will most likely help you overcome the learning curve quicker.
+All I can say is that it gets interesting and fun along the way and I hope we can share the joy, change and growth. 
